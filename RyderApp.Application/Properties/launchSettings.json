@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RyderApp.Application": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
